@@ -1,0 +1,17 @@
+# Confidential client source material
+discovery-call-notes.txt
+discovery-call-notes*.txt
+client-notes/
+raw-data/
+private/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
